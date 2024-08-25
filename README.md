@@ -1,5 +1,4 @@
 # my_ml_cheatsheets
 my_ml_cheatsheets
 
-
-test deneme bir ki
+bu repo, sadi evren şeker'in "python ile makine öğrenmesi" isimli eğitimine çalışırken tutulmuş notları kapsar.'
