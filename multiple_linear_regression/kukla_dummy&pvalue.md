@@ -1,4 +1,4 @@
-#kukla değişken ya da dummy variable:
+#**-kukla değişken ya da dummy variable:**
 
 ikili ilişkileri olan kategorig değerlerin numerik değerlere çevrilmesi sonucu, aynı anlama gelen kolonların veri kümesinde olması durumunda,
 bu değişkenlerden birine **dummy variable** ya da **kukla değişken** denebilir.
@@ -6,9 +6,9 @@ bu değişkenlerden birine **dummy variable** ya da **kukla değişken** denebil
 ifade edlilirken bu kolonlarda 1 ve 0 değerleri aynı şeyi zıt olarak göstermekte ama sonuç tahminine her iki kolon da etki etmekdedir. Bu durumda bu verilere dummy değişken,
 kukla değişken adı verilir.
 
+---
 
-
-#p-value
+#**-p-value:**
 
 iki hipotez olduğunu düşünelim 
 
