@@ -87,4 +87,4 @@ sc = StandardScaler()
 # Eğitim ve test verilerini standardize eder:
 # - `fit_transform` metodu, eğitim verilerine göre ölçekleme yapar ve bu ölçekleme bilgilerini test verilerine uygular.
 X_train = sc.fit_transform(x_train)
-X_test = sc.transform(x_test)
+X_test = sc.fit_transform(x_test)
